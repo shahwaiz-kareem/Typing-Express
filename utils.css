@@ -1,0 +1,53 @@
+.flex {
+  display: flex;
+}
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.flex-col {
+  flex-direction: column;
+}
+.gap-2 {
+  gap: 1rem;
+}
+.gap-4 {
+  gap: 2rem;
+}
+.m-2 {
+  margin: 0.25rem;
+}
+.m-4 {
+  margin: 0.5rem;
+}
+.p-2 {
+  padding: 0.25rem;
+}
+.p-4 {
+  padding: 0.5rem;
+}
+.px-2 {
+  padding: 0 0.5rem;
+}
+
+.m-auto {
+  margin: auto;
+}
+.w-1\/2 {
+  width: 50%;
+}
+.w-full {
+  width: 100%;
+}
+
+.bg-zinc-900 {
+  background-color: rgb(33, 33, 33);
+}
+.text-white {
+  color: white;
+}
